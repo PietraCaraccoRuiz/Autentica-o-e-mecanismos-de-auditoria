@@ -1,0 +1,18 @@
+{
+  "name": "prototipo-blockchain-processamentos",
+  "version": "1.0.0",
+  "description": "Protótipo acadêmico de blockchain para registro seguro de séries de processamentos com prova de trabalho, integridade e autenticação.",
+  "main": "blockchain.js",
+  "scripts": {
+    "start": "node blockchain.js"
+  },
+  "keywords": [
+    "blockchain",
+    "seguranca",
+    "criptografia",
+    "prova-de-trabalho",
+    "assinatura-digital"
+  ],
+  "author": "Pietra Caracco Ruiz",
+  "license": "MIT"
+}

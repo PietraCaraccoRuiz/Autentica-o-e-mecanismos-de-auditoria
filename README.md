@@ -1,6 +1,6 @@
 # Protótipo Blockchain para Processamentos Seguros
 
-Autora: Pietra Caracco Ruiz  
+Pietra Caracco Ruiz  
 Matrícula: HT3038513
 
 Igor Josué De Andrade Lourenço    

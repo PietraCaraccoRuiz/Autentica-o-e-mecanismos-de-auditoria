@@ -3,6 +3,10 @@
 Autora: Pietra Caracco Ruiz  
 Matrícula: HT3038513
 
+Igor Josué De Andrade Lourenço 
+Matrícula: HT3080935 
+
+
 Este protótipo acompanha o relatório acadêmico sobre blockchain aplicada à inclusão segura de séries de processamentos. A proposta demonstra, de forma prática, como mecanismos criptográficos podem ser combinados para registrar eventos com integridade, autenticação, rastreabilidade e apoio à auditoria.
 
 ## Objetivo
